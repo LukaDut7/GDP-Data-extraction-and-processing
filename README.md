@@ -2,16 +2,16 @@
 
 ## Run the commands below first
 
-## pip install pandas numpy
+1. pip install pandas numpy
 
-## pip install lxml
+2. pip install lxml
 
-# Objectives
+## Objectives
 
-## Use Webscraping to extract required information from a website.
+1. Use Webscraping to extract required information from a website.
 
-## Use Pandas to load and process the tabular data as a dataframe.
+2. Use Pandas to load and process the tabular data as a dataframe.
 
-## Use Numpy to manipulate the information contatined in the dataframe.
+3. Use Numpy to manipulate the information contatined in the dataframe.
 
-## Load the updated dataframe to CSV file.
+4. Load the updated dataframe to CSV file.
